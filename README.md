@@ -15,11 +15,10 @@
 ---------------------------
 <div>
  <p align="left"> <a href="https://github.com/om-prakash416" target="_blank" rel="noreferrer"><img src="logo/icons8-github.gif" width="32" height="32" /></a> 
- <a href="[http://www.instagram.com/](https://www.instagram.com/op_416_/)" target="_blank" rel="noreferrer"><img src="logo/icons8-instagram.gif" width="32" height="32" /></a>
+ <a href="[http://www.instagram.com/](https://www.instagram.com/op_416_/)]([https://www.instagram.com/op_416_/](https://www.instagram.com/op_416_/))" target="_blank" rel="noreferrer"><img src="logo/icons8-instagram.gif" width="32" height="32" /></a>
  <a href="https://twitter.com/op_416_" target="_blank" rel="noreferrer"><img src="logo/icons8-twitter.gif" width="32" height="32" /></a></p>
   <a href="mailto:omprakash31181@gmail.com?"><img src="https://img.shields.io/badge/Gmail-ffcdd2?logo=gmail&style=for-the-badge"/></a> &nbsp; &nbsp; 
-  <a href="[www.linkedin.com/in/
-omprakash416](https://www.linkedin.com/in/omprakash416/)"><img src="https://img.shields.io/badge/LinkedIn-01579b?logo=linkedin&style=for-the-badge"/></a> &nbsp; &nbsp; 
+  <a href="[[www.linkedin.com/in/omprakash416](https://www.linkedin.com/in/omprakash416/)](https://www.linkedin.com/in/omprakash416/)"><img src="https://img.shields.io/badge/LinkedIn-01579b?logo=linkedin&style=for-the-badge"/></a> &nbsp; &nbsp; 
  </div>
 
 <img align="right" alt="Coding" width="300" height="200" src="logo/sample.gif">
@@ -40,5 +39,5 @@ omprakash416](https://www.linkedin.com/in/omprakash416/)"><img src="https://img.
 
 <p align="left">
   <a href="https://github.com/om-prakash416"><img src="https://github-readme-stats.vercel.app/api?username=om-prakash416&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="om-prakash416 GitHub stats" /></a>
-  <a href="http://www.github.com/UmangJogani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=om-prakash416&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="http://www.github.com/om-prakash416"><img src="https://github-readme-streak-stats.herokuapp.com/?user=om-prakash416&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
