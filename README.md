@@ -18,7 +18,8 @@
  <a href="[http://www.instagram.com/](https://www.instagram.com/op_416_/)" target="_blank" rel="noreferrer"><img src="logo/icons8-instagram.gif" width="32" height="32" /></a>
  <a href="https://twitter.com/op_416_" target="_blank" rel="noreferrer"><img src="logo/icons8-twitter.gif" width="32" height="32" /></a></p>
   <a href="mailto:omprakash31181@gmail.com?"><img src="https://img.shields.io/badge/Gmail-ffcdd2?logo=gmail&style=for-the-badge"/></a> &nbsp; &nbsp; 
-  <a href="[https://linkedin.com/in/omprakash](https://www.linkedin.com/in/omprakash416/)"><img src="https://img.shields.io/badge/LinkedIn-01579b?logo=linkedin&style=for-the-badge"/></a> &nbsp; &nbsp; 
+  <a href="[www.linkedin.com/in/
+omprakash416](https://www.linkedin.com/in/omprakash416/)"><img src="https://img.shields.io/badge/LinkedIn-01579b?logo=linkedin&style=for-the-badge"/></a> &nbsp; &nbsp; 
  </div>
 
 <img align="right" alt="Coding" width="300" height="200" src="logo/sample.gif">
