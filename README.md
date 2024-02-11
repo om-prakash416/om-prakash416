@@ -9,7 +9,7 @@
 🌍  I'm based in India --> Ahmedabad,gujrat </br>
 👩🏻‍💻  I work as a Fullstack Developer </br>
 🌱 I love building applications with Bootstrap,Html 5 and Rust. </br>
-📌 I'm currently building [ Staytunned LLP ](https://codecycle.tech/) </br>
+📌 I'm currently building [[ webNx ] (https://www.webnx.in/)] </br>
 
 ### Where else to find me?
 ---------------------------
