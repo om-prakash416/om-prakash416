@@ -1,18 +1,85 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
 # Om Prakash
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omprakash416&label=Profile%20views&color=0e75b6&style=flat" alt="omprakash416" /> </p>
-### Who am I ? </br>
-------------------- </br>
-<!-- 👋🏼 &nbsp; &nbsp; Hey there! I'm OM PRAKASH  -->
-🌍  I'm based in India --> Ahmedabad,gujrat </br>
-👩🏻‍💻  I work as a Fullstack Developer </br>
-<!-- 🌱 I love building applications with Bootstrap,Html 5 and Rust. </br> -->
-<!-- 📌 I'm currently building [[ webNx ] (https://www.webnx.in/)] </br> -->
+![Profile Views](https://komarev.com/ghpvc/?username=om-prakash416&label=Profile%20views&color=0e75b6&style=flat)
 
-### Where else to find me?
----------------------------
+## 🧑‍💼 About Me
+
+Highly motivated Full Stack Developer with a passion for solving real-world problems. I specialize in building full-stack web applications using modern JavaScript technologies and have experience in UI/UX design, server-side logic, and database integration.
+
+- 🔭 Currently working as **Frontend Developer and UI & UX at Freelance Working** (Dec 2024 – May 2025)  
+- 💼 Past role: **Frontend Developer at Praeclarum** (Sep 2023 – Mar 2024)  
+- 🌱 Learning: **Next.js, AI tools, Dsa(Java)**  
+- 📍 Based in **Ahmedabad, Gujarat, India**  
+- 📨 Email: **omprakash31181@gmail.com**  
+- 📄 [Download My Resume (PDF)](https://drive.google.com/file/d/1QSY8FDvwwrSL0rarP4Rp9UEjDSbyhkA-/view?usp=sharing)
+
+---
+
+## 🛠️ Skills & Tools
+
+**Languages:** C, C++, Java, Python, PHP  
+**Web Dev:** HTML5, CSS3, JavaScript, ReactJS, Node.js  
+**Backend:** MongoDB, SQL, Express.js, DBMS,Django 
+**Frameworks/UI:** Bootstrap5, Tailwind CSS, Material UI, Ant Design  
+**Tools:** Git, GitHub, Figma, Postman, VS Code, Illustrator  
+**Concepts:** OOPs, Data Structures, Operating System, SRS Docs
+
+![Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,nextjs,nodejs,django,mongodb,express,tailwind,figma,git,github,python,c,cpp,mysql,gcp,java,wordpress,visualstudio,vite,vercel,ts,stackoverflow,replit,php,npm,netlify)
+
+---
+
+## 🚀 Projects
+
+| Project Name | Tech Stack | Description | Links |
+|--------------|------------|-------------|-------|
+| **Food Delivery App** | MERN, Redux, JWT | Dynamic food website with cart & auth | [GitHub](#) |
+| **LMS with Payment Gateway** | MERN, Daisy UI, JWT | Learning platform with payment & auth | [GitHub](#) |
+| **TalentBox – Job Tracker** | MERN, Multer, Nodemailer | Multi-role tracking & resume parsing | [GitHub](#) |
+| **Weather App** | Python, Flask, Bootstrap | Real-time weather & outfit suggestions | [GitHub](#) |
+| **Smart Chatbot** | Python, Streamlit, OpenAI | AI chatbot with NLP & ChatGPT | [GitHub](#) |
+
+---
+
+## 💼 Experience
+
+- **Frontend Developer – Praeclarum Tech** (Dec 2024 – May 2025)  
+  🔧 UI/UX with Figma, ReactJS, Material UI, API integrations, Excel + SRS design
+
+- **Web Developer – WebNX** (Sep 2023 – Mar 2024)  
+  🔧 WordPress, Rank Math SEO, HTML5, CSS3, PHP, multi-device optimization
+
+---
+
+## 🎓 Education
+
+- 🎓 **B.Tech in Computer Engineering**  
+  Silver Oak University, Ahmedabad (2022 – Present)
+
+- 🎓 **Intermediate (PCM)**  
+  J.K.Y Senior Secondary School, Gaya (2022)
+
+---
+
+## 📜 Certifications
+
+- 🏅 PDP – Personality Development Programme (Nov 2022)
+- 🏅 OJT – On Job Training (Apr 2023)
+- 🏅 NPTEL – Java Programming & Data Structures, IIT Kharagpur (Oct 2023)
+- 🏅 Google Cloud GenAI Study Jam (Dec 2024)
+- 🏅 NPTEL – Introduction to IoT, IIT Kharagpur (Apr 2025)
+
+---
+
+## 📩 Contact Me
+
+📧 Email: [omprakash31181@gmail.com](mailto:omprakash31181@gmail.com)  
+📞 Phone: +91-9006622732  
+🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/omprakash416/)  
+📂 Portfolio: [Portfolio](https://om-prakash416-portfolio.vercel.app/)
 <div>
  <p align="left"> <a href="https://github.com/om-prakash416" target="_blank" rel="noreferrer"><img src="logo/icons8-github.gif" width="32" height="32" /></a> 
  <a href="[http://www.instagram.com/](https://www.instagram.com/op_416_/)]([https://www.instagram.com/op_416_/](https://www.instagram.com/op_416_/))" target="_blank" rel="noreferrer"><img src="logo/icons8-instagram.gif" width="32" height="32" /></a>
@@ -21,23 +88,7 @@
   <a href="[[[www.linkedin.com/in/omprakash416]([https://www.linkedin.com/in/omprakash416/]([https://www.linkedin.com/in/omprakash416/]([https://www.linkedin.com/in/omprakash416/]([https://www.linkedin.com/in/omprakash416/](https://www.linkedin.com/in/omprakash416/)))))]([https://www.linkedin.com/in/omprakash416/](https://www.linkedin.com/in/omprakash416/))]([[https://www.linkedin.com/in/omprakash416]([https://www.linkedin.com/in/omprakash416](https://www.linkedin.com/in/omprakash416/)/)](https://www.linkedin.com/in/omprakash416/)/)"><img src="https://img.shields.io/badge/LinkedIn-01579b?logo=linkedin&style=for-the-badge"/></a> &nbsp; &nbsp; 
  </div>
 
-<img align="right" alt="Coding" width="300" height="200" src="logo/sample.gif">
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="logo/c.svg"alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="logo/c++.svg"alt="C++" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="logo/git.svg"alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="logo/html.svg" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="logo/css.svg"alt="CSS3" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="logo/mysql.svg"alt="MySQL" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="logo/icons8-figma.gif" width="36" height="36" alt="Figma" /></a>
-</p>
-<hr>
-<b>My GitHub Stats</b>
-
-<p align="left">
-  <a href="https://github.com/om-prakash416"><img src="https://github-readme-stats.vercel.app/api?username=om-prakash416&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="om-prakash416 GitHub stats" /></a>
-  <a href="http://www.github.com/om-prakash416"><img src="https://github-readme-streak-stats.herokuapp.com/?user=om-prakash416&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
