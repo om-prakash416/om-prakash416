@@ -40,9 +40,9 @@ Highly motivated Full Stack Developer with a passion for solving real-world prob
 | **LMS with Payment Gateway** | MERN, Daisy UI, JWT | Learning platform with payment & auth | [GitHub](#) |  [Live]()|
 | **TalentBox – Job Tracker** | MERN, Multer, Nodemailer | Multi-role tracking & resume parsing | [GitHub](#) |  [Live]()|
 | **Weather App** | Python, Flask, Bootstrap | Real-time weather & outfit suggestions | [GitHub](#) |  [Live]()|
-| **Smart Chatbot** | Python, Streamlit, OpenAI | AI chatbot with NLP & ChatGPT | [GitHub](#) |  [Live]()|
-| **Sweets Website** | Html,Css| Sweets basic html website | [Github] (https://github.com/om-prakash416/Html/blob/main/Sweets/Readme.md)  [Live]()|
-| **Wordpress Website** | Wordpress , The Ark Theme| Finance Website and Taxes services ,blogs,Articles  | [Github] (https://github.com/om-prakash416/Html/blob/main/Sweets/Readme.md)  [Live](https://lodestar-ops.com/)|
+| **Smart Chatbot** | Python, Streamlit, OpenAI | AI chatbot with NLP & ChatGPT | [GitHub](#) |  [Live](#)|
+| **Sweets Website** | Html,Css| Sweets basic html website | [Github] (https://github.com/om-prakash416/Html/blob/main/Sweets/Readme.md)  [Live](#)|
+| **Wordpress Website** | Wordpress , The Ark Theme| Finance Website and Taxes services ,blogs,Articles  | [Github] (#)  [Live](https://lodestar-ops.com/)|
 
 ## 🚀 UI & Ux Projects By Me
 
