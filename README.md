@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
@@ -10,8 +11,8 @@
 
 Highly motivated Full Stack Developer with a passion for solving real-world problems. I specialize in building full-stack web applications using modern JavaScript technologies and have experience in UI/UX design, server-side logic, and database integration.
 
-- 🔭 Currently working as **Frontend Developer and UI & UX at Freelance Working** (Dec 2024 – May 2025)  
-- 💼 Past role: **Frontend Developer at Praeclarum** (Sep 2023 – Mar 2024)  
+- 🔭 Currently working as **Frontend Developer and UI & UX at Freelance Working** 
+- 💼 Past role: **Frontend Developer at Praeclarum** (Dec 2024 – May 2025)  
 - 🌱 Learning: **Next.js, AI tools, Dsa(Java)**  
 - 📍 Based in **Ahmedabad, Gujarat, India**  
 - 📨 Email: **omprakash31181@gmail.com**  
