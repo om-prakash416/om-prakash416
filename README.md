@@ -41,6 +41,7 @@ Highly motivated Full Stack Developer with a passion for solving real-world prob
 | **TalentBox – Job Tracker** | MERN, Multer, Nodemailer | Multi-role tracking & resume parsing | [GitHub](#) |
 | **Weather App** | Python, Flask, Bootstrap | Real-time weather & outfit suggestions | [GitHub](#) |
 | **Smart Chatbot** | Python, Streamlit, OpenAI | AI chatbot with NLP & ChatGPT | [GitHub](#) |
+| **Sweets Website** | Html,Css| Sweets basic html website | [Github] (https://github.com/om-prakash416/Html/blob/main/Sweets/Readme.md)
 
 ---
 
