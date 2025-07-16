@@ -49,10 +49,10 @@ Highly motivated Full Stack Developer with a passion for solving real-world prob
 |Project Name | Uses|Live Link|
 |-------------|-----| --------|
 |**POS System** | UAE Mall| [Figma](https://www.figma.com/design/tQuJjFJneyNjaLRv7kkBkA/Pos-Figma?node-id=0-1&t=9h3Kcr4CcdHSyd15-1)|
-|**Admin Panel** | UAE Mall| [Figma](https://www.figma.com/design/c71Qrema4I2DkA6AFbktwn/TalentBox?node-id=2-205)|
-|**Mobile Application LMS** | UAE Mall| [Figma](https://www.figma.com/design/5BRUd2ntxWYTuOxiEFfzBc/Untitled?node-id=0-1&t=WotGjV8Gj2293JpC-1)|
-|**Online Food Store** | UAE Mall| [Figma](https://www.figma.com/design/o5aBKZnBsKoMN6Zk7KJkCL/Online-Food-Website?node-id=0-1&t=WotGjV8Gj2293JpC-1)|
-|**Communities Birthday Wishess App** | UAE Mall| [Figma](https://www.figma.com/design/JyKXDJQS5zaGhFHBpyrhOp/Birthday-Wishes-App?node-id=0-1&t=PfUNTisdITvxbGLp-1)|
+|**Admin Panel** | Job Applicant Tracker| [Figma](https://www.figma.com/design/c71Qrema4I2DkA6AFbktwn/TalentBox?node-id=2-205)|
+|**Mobile Application LMS** | App| [Figma](https://www.figma.com/design/5BRUd2ntxWYTuOxiEFfzBc/Untitled?node-id=0-1&t=WotGjV8Gj2293JpC-1)|
+|**Online Food Store** | Food website| [Figma](https://www.figma.com/design/o5aBKZnBsKoMN6Zk7KJkCL/Online-Food-Website?node-id=0-1&t=WotGjV8Gj2293JpC-1)|
+|**Communities Birthday Wishess App** | Communities member birthday wishes application| [Figma](https://www.figma.com/design/JyKXDJQS5zaGhFHBpyrhOp/Birthday-Wishes-App?node-id=0-1&t=PfUNTisdITvxbGLp-1)|
 
 ---
 
