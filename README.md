@@ -100,6 +100,14 @@ Highly motivated Full Stack Developer with a passion for solving real-world prob
   <a href="[[[www.linkedin.com/in/omprakash416]([https://www.linkedin.com/in/omprakash416/]([https://www.linkedin.com/in/omprakash416/]([https://www.linkedin.com/in/omprakash416/]([https://www.linkedin.com/in/omprakash416/](https://www.linkedin.com/in/omprakash416/)))))]([https://www.linkedin.com/in/omprakash416/](https://www.linkedin.com/in/omprakash416/))]([[https://www.linkedin.com/in/omprakash416]([https://www.linkedin.com/in/omprakash416](https://www.linkedin.com/in/omprakash416/)/)](https://www.linkedin.com/in/omprakash416/)/)"><img src="https://img.shields.io/badge/LinkedIn-01579b?logo=linkedin&style=for-the-badge"/></a> &nbsp; &nbsp; 
  </div>
 
+<hr>
+<b>My GitHub Stats</b>
+
+<p align="left">
+  <a href="https://github.com/om-prakash416"><img src="https://github-readme-stats.vercel.app/api?username=om-prakash416&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="om-prakash416 GitHub stats" /></a>
+  <a href="http://www.github.com/om-prakash416"><img src="https://github-readme-streak-stats.herokuapp.com/?user=om-prakash416&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
