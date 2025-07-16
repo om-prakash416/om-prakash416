@@ -34,20 +34,31 @@ Highly motivated Full Stack Developer with a passion for solving real-world prob
 
 ## 🚀 Projects
 
-| Project Name | Tech Stack | Description | Links |
-|--------------|------------|-------------|-------|
-| **Food Delivery App** | MERN, Redux, JWT | Dynamic food website with cart & auth | [GitHub](#) |
-| **LMS with Payment Gateway** | MERN, Daisy UI, JWT | Learning platform with payment & auth | [GitHub](#) |
-| **TalentBox – Job Tracker** | MERN, Multer, Nodemailer | Multi-role tracking & resume parsing | [GitHub](#) |
-| **Weather App** | Python, Flask, Bootstrap | Real-time weather & outfit suggestions | [GitHub](#) |
-| **Smart Chatbot** | Python, Streamlit, OpenAI | AI chatbot with NLP & ChatGPT | [GitHub](#) |
-| **Sweets Website** | Html,Css| Sweets basic html website | [Github] (https://github.com/om-prakash416/Html/blob/main/Sweets/Readme.md)
+| Project Name | Tech Stack | Description | Links | Live Link |
+|--------------|------------|-------------|-------|-----------|
+| **Food Delivery App** | MERN, Redux, JWT | Dynamic food website with cart & auth | [GitHub](#) | [Live]()|
+| **LMS with Payment Gateway** | MERN, Daisy UI, JWT | Learning platform with payment & auth | [GitHub](#) |  [Live]()|
+| **TalentBox – Job Tracker** | MERN, Multer, Nodemailer | Multi-role tracking & resume parsing | [GitHub](#) |  [Live]()|
+| **Weather App** | Python, Flask, Bootstrap | Real-time weather & outfit suggestions | [GitHub](#) |  [Live]()|
+| **Smart Chatbot** | Python, Streamlit, OpenAI | AI chatbot with NLP & ChatGPT | [GitHub](#) |  [Live]()|
+| **Sweets Website** | Html,Css| Sweets basic html website | [Github] (https://github.com/om-prakash416/Html/blob/main/Sweets/Readme.md)  [Live]()|
+| **Wordpress Website** | Wordpress , The Ark Theme| Finance Website and Taxes services ,blogs,Articles  | [Github] (https://github.com/om-prakash416/Html/blob/main/Sweets/Readme.md)  [Live](https://lodestar-ops.com/)|
+
+## 🚀 UI & Ux Projects By Me
+
+|Project Name | Uses|Live Link|
+|-------------|-----| --------|
+|**POS System** | UAE Mall| [Figma](https://www.figma.com/design/tQuJjFJneyNjaLRv7kkBkA/Pos-Figma?node-id=0-1&t=9h3Kcr4CcdHSyd15-1)|
+|**Admin Panel** | UAE Mall| [Figma](https://www.figma.com/design/c71Qrema4I2DkA6AFbktwn/TalentBox?node-id=2-205)|
+|**Mobile Application LMS** | UAE Mall| [Figma](https://www.figma.com/design/5BRUd2ntxWYTuOxiEFfzBc/Untitled?node-id=0-1&t=WotGjV8Gj2293JpC-1)|
+|**Online Food Store** | UAE Mall| [Figma](https://www.figma.com/design/o5aBKZnBsKoMN6Zk7KJkCL/Online-Food-Website?node-id=0-1&t=WotGjV8Gj2293JpC-1)|
+|**Communities Birthday Wishess App** | UAE Mall| [Figma](https://www.figma.com/design/JyKXDJQS5zaGhFHBpyrhOp/Birthday-Wishes-App?node-id=0-1&t=PfUNTisdITvxbGLp-1)|
 
 ---
 
 ## 💼 Experience
 
-- **Frontend Developer – Praeclarum Tech** (Dec 2024 – May 2025)  
+0- **Frontend Developer – Praeclarum Tech** (Dec 2024 – May 2025)  
   🔧 UI/UX with Figma, ReactJS, Material UI, API integrations, Excel + SRS design
 
 - **Web Developer – WebNX** (Sep 2023 – Mar 2024)  
