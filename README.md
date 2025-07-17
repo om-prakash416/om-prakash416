@@ -37,8 +37,10 @@ Highly motivated Full Stack Developer with a passion for solving real-world prob
 
 | Project Name | Tech Stack | Description | Links | Live Link |
 |--------------|------------|-------------|-------|-----------|
+| **Ecom Website** | HTML ,CSS,Javascript | Product Base Website | [GitHub](https://github.com/om-prakash416/Ecom-Website/tree/main) | [Live](https://om-prakash416.github.io/Ecom-Website/)|
 | **Food Delivery App** | MERN, Redux, JWT | Dynamic food website with cart & auth | [GitHub](#) | [Live]()|
-| **LMS with Payment Gateway** | MERN, Daisy UI, JWT | Learning platform with payment & auth | [GitHub](#) |  [Live]()|
+
+| **LMS with Admin and Students Panel** | Html,css ,javascript,php,bootstrap | Learning platform with auth,admin and students panel | [GitHub](https://github.com/om-prakash416/lms)|  [Live]()|
 | **TalentBox – Job Tracker** | MERN, Multer, Nodemailer | Multi-role tracking & resume parsing | [GitHub](#) |  [Live]()|
 | **Weather App** | Python, Flask, Bootstrap | Real-time weather & outfit suggestions | [GitHub](#) |  [Live]()|
 | **Smart Chatbot** | Python, Streamlit, OpenAI | AI chatbot with NLP & ChatGPT | [GitHub](https://github.com/om-prakash416/AI-chatBot) |  [Live](#)|
