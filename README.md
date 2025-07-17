@@ -78,6 +78,8 @@ Highly motivated Full Stack Developer with a passion for solving real-world prob
 - 🎓 **Intermediate (PCM)**  
   J.K.Y Senior Secondary School, Gaya (2022)
 
+- 🎓 **Schooling**  
+  Gurukul Sherghati School, Gaya (2020)
 ---
 
 ## 📜 Certifications
