@@ -62,7 +62,7 @@ Highly motivated Full Stack Developer with a passion for solving real-world prob
 
 ## 💼 Experience
 
-0- **Frontend Developer – Praeclarum Tech** (Dec 2024 – May 2025)  
+- **Frontend Developer – Praeclarum Tech** (Dec 2024 – May 2025)  
   🔧 UI/UX with Figma, ReactJS, Material UI, API integrations, Excel + SRS design
 
 - **Web Developer – WebNX** (Sep 2023 – Mar 2024)  
