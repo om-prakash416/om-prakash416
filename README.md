@@ -35,8 +35,7 @@ Highly motivated Full Stack Developer with a passion for solving real-world prob
 
 ## 🚀 Projects
 
-| Project Name | Tech Stack | Description | Links | Live 
-|
+| Project Name | Tech Stack | Description | Links | Live |
 |--------------|------------|-------------|-------|-----------|
 | **My Portfolio** | Html,Css, Javascript| Portfolio | **[GitHub](https://github.com/om-prakash416/Portfolio)** | **[Live](https://om-prakash416-portfolio.vercel.app/)**|
 | **Ecom Website** | HTML ,CSS,Javascript | Product Base Website | **[GitHub](https://github.com/om-prakash416/Ecom-Website/tree/main)** |**[Live](https://om-prakash416.github.io/Ecom-Website/)** |
@@ -47,6 +46,7 @@ Highly motivated Full Stack Developer with a passion for solving real-world prob
 | **Food Delivery App** | MERN, Redux, JWT | Dynamic food website with cart & auth | [GitHub](#) | [Live]()|
 | **Smart Chatbot** | Python, Streamlit, OpenAI | AI chatbot with NLP & ChatGPT | [GitHub](https://github.com/om-prakash416/AI-chatBot) |  [Live](#)|
 | **Sweets Website** | Html,Css| Sweets basic html website | [Github](https://github.com/om-prakash416/Html/blob/main/Sweets/Readme.md) | [Live](#)|
+ **LMS Ecom** | React,Redux,Nodejs,Daisy Ui | Learning platform where course purchase and sell | **[GitHub](https://github.com/om-prakash416/lms)**|  **[Live]()**|
 
 
 ## 🚀 UI & Ux Projects By Me
