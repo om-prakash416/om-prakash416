@@ -35,7 +35,8 @@ Highly motivated Full Stack Developer with a passion for solving real-world prob
 
 ## 🚀 Projects
 
-| Project Name | Tech Stack | Description | Links | Live Link |
+| Project Name | Tech Stack | Description | Links | Live 
+|
 |--------------|------------|-------------|-------|-----------|
 | **My Portfolio** | Html,Css, Javascript| Portfolio | **[GitHub](https://github.com/om-prakash416/Portfolio)** | **[Live](https://om-prakash416-portfolio.vercel.app/)**|
 | **Ecom Website** | HTML ,CSS,Javascript | Product Base Website | **[GitHub](https://github.com/om-prakash416/Ecom-Website/tree/main)** |**[Live](https://om-prakash416.github.io/Ecom-Website/)** |
@@ -50,7 +51,7 @@ Highly motivated Full Stack Developer with a passion for solving real-world prob
 
 ## 🚀 UI & Ux Projects By Me
 
-|Project Name | Uses|Live Link|
+|Project Name | Uses|Live |
 |-------------|-----| --------|
 |**POS System** | UAE Mall| [Figma](https://www.figma.com/design/tQuJjFJneyNjaLRv7kkBkA/Pos-Figma?node-id=0-1&t=9h3Kcr4CcdHSyd15-1)|
 |**Admin Panel** | Job Applicant Tracker| [Figma](https://www.figma.com/design/c71Qrema4I2DkA6AFbktwn/TalentBox?node-id=2-205)|
