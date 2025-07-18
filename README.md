@@ -37,11 +37,11 @@ Highly motivated Full Stack Developer with a passion for solving real-world prob
 
 | Project Name | Tech Stack | Description | Links | Live Link |
 |--------------|------------|-------------|-------|-----------|
-| **My Portfolio** | Html,Css, Javascript| Portfolio | [GitHub](https://github.com/om-prakash416/Portfolio) | [Live](https://om-prakash416-portfolio.vercel.app/)|
-| **Ecom Website** | HTML ,CSS,Javascript | Product Base Website | [GitHub](https://github.com/om-prakash416/Ecom-Website/tree/main) | [Live](https://om-prakash416.github.io/Ecom-Website/) |
-| **Wordpress Website** | Wordpress , The Ark Theme| Finance Website and Taxes services ,blogs,Articles  | [Github]()| [Live](https://lodestar-ops.com/)|
-| **TalentBox – Job Tracker** | MERN, Multer, Nodemailer | Multi-role tracking & resume parsing | [GitHub](https://github.com/om-prakash416/Job-applicant-Tracker) |  [Live]()|
-| **LMS with Admin and Students Panel** | Html,css ,javascript,php,bootstrap | Learning platform with auth,admin and students panel | [GitHub](https://github.com/om-prakash416/lms)|  [Live]()|
+| **My Portfolio** | Html,Css, Javascript| Portfolio | **[GitHub](https://github.com/om-prakash416/Portfolio)** | **[Live](https://om-prakash416-portfolio.vercel.app/)**|
+| **Ecom Website** | HTML ,CSS,Javascript | Product Base Website | **[GitHub](https://github.com/om-prakash416/Ecom-Website/tree/main)** |**[Live](https://om-prakash416.github.io/Ecom-Website/)** |
+| **Wordpress Website** | Wordpress , The Ark Theme| Finance Website and Taxes services ,blogs,Articles  | [Github]()| **[Live](https://lodestar-ops.com/)**|
+| **TalentBox – Job Tracker** | MERN, Multer, Nodemailer | Multi-role tracking & resume parsing | **[GitHub](https://github.com/om-prakash416/Job-applicant-Tracker)** |  **[Live](https://job-applicant-frontend.vercel.app/)**|
+| **LMS with Admin and Students Panel** | Html,css ,javascript,php,bootstrap | Learning platform with auth,admin and students panel | **[GitHub](https://github.com/om-prakash416/lms)**|  **[Live]()**|
 | **Weather App** | Python, Flask, Bootstrap | Real-time weather & outfit suggestions | [GitHub](#) |  [Live]()|
 | **Food Delivery App** | MERN, Redux, JWT | Dynamic food website with cart & auth | [GitHub](#) | [Live]()|
 | **Smart Chatbot** | Python, Streamlit, OpenAI | AI chatbot with NLP & ChatGPT | [GitHub](https://github.com/om-prakash416/AI-chatBot) |  [Live](#)|
