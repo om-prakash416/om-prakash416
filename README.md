@@ -16,7 +16,7 @@ Highly motivated Full Stack Developer with a passion for solving real-world prob
 - 🌱 Learning: **Next.js, AI tools, Dsa(Java)**  
 - 📍 Based in **Ahmedabad, Gujarat, India**  
 - 📨 Email: **omprakash31181@gmail.com**  
-- 📄 [Download My Resume (PDF)](https://drive.google.com/file/d/1QSY8FDvwwrSL0rarP4Rp9UEjDSbyhkA-/view?usp=sharing)
+- 📄 **[Download My Resume (PDF)](https://drive.google.com/file/d/1QSY8FDvwwrSL0rarP4Rp9UEjDSbyhkA-/view?usp=sharing)**
 
 ---
 
@@ -44,20 +44,20 @@ Highly motivated Full Stack Developer with a passion for solving real-world prob
 | **LMS with Admin and Students Panel** | Html,css ,javascript,php,bootstrap | Learning platform with auth,admin and students panel | **[GitHub](https://github.com/om-prakash416/lms)**|  **[Live]()**|
 | **Weather App** | Python, Flask, Bootstrap | Real-time weather & outfit suggestions | [GitHub](#) |  [Live]()|
 | **Food Delivery App** | MERN, Redux, JWT | Dynamic food website with cart & auth | [GitHub](#) | [Live]()|
-| **Smart Chatbot** | Python, Streamlit, OpenAI | AI chatbot with NLP & ChatGPT | [GitHub](https://github.com/om-prakash416/AI-chatBot) |  [Live](#)|
-| **Sweets Website** | Html,Css| Sweets basic html website | [Github](https://github.com/om-prakash416/Html/blob/main/Sweets/Readme.md) | [Live](#)|
- **LMS Ecom** | React,Redux,Nodejs,Daisy Ui | Learning platform where course purchase and sell | **[GitHub](https://github.com/om-prakash416/lms)**|  **[Live]()**|
+| **Smart Chatbot** | Python, Streamlit, OpenAI | AI chatbot with NLP & ChatGPT | **[GitHub](https://github.com/om-prakash416/AI-chatBot)** |  [Live](#)|
+| **Sweets Website** | Html,Css| Sweets basic html website | **[Github](https://github.com/om-prakash416/Html/blob/main/Sweets/Readme.md)** | [Live](#)|
+ **LMS Ecom** | React,Redux,Nodejs,Daisy Ui | Learning platform where course purchase and sell | **[GitHub](https://github.com/om-prakash416/lms)**|  [Live]()|
 
 
 ## 🚀 UI & Ux Projects By Me
 
 |Project Name | Uses|Live |
 |-------------|-----| --------|
-|**POS System** | UAE Mall| [Figma](https://www.figma.com/design/tQuJjFJneyNjaLRv7kkBkA/Pos-Figma?node-id=0-1&t=9h3Kcr4CcdHSyd15-1)|
-|**Admin Panel** | Job Applicant Tracker| [Figma](https://www.figma.com/design/c71Qrema4I2DkA6AFbktwn/TalentBox?node-id=2-205)|
-|**Mobile Application LMS** | App| [Figma](https://www.figma.com/design/5BRUd2ntxWYTuOxiEFfzBc/Untitled?node-id=0-1&t=WotGjV8Gj2293JpC-1)|
-|**Online Food Store** | Food website| [Figma](https://www.figma.com/design/o5aBKZnBsKoMN6Zk7KJkCL/Online-Food-Website?node-id=0-1&t=WotGjV8Gj2293JpC-1)|
-|**Communities Birthday Wishess App** | Communities member birthday wishes application| [Figma](https://www.figma.com/design/JyKXDJQS5zaGhFHBpyrhOp/Birthday-Wishes-App?node-id=0-1&t=PfUNTisdITvxbGLp-1)|
+|**POS System** | UAE Mall| **[Figma](https://www.figma.com/design/tQuJjFJneyNjaLRv7kkBkA/Pos-Figma?node-id=0-1&t=9h3Kcr4CcdHSyd15-1)**|
+|**Admin Panel** | Job Applicant Tracker| **[Figma](https://www.figma.com/design/c71Qrema4I2DkA6AFbktwn/TalentBox?node-id=2-205)**|
+|**Mobile Application LMS** | App| **[Figma](https://www.figma.com/design/5BRUd2ntxWYTuOxiEFfzBc/Untitled?node-id=0-1&t=WotGjV8Gj2293JpC-1)**|
+|**Online Food Store** | Food website| **[Figma](https://www.figma.com/design/o5aBKZnBsKoMN6Zk7KJkCL/Online-Food-Website?node-id=0-1&t=WotGjV8Gj2293JpC-1)**|
+|**Communities Birthday Wishess App** | Communities member birthday wishes application| **[Figma](https://www.figma.com/design/JyKXDJQS5zaGhFHBpyrhOp/Birthday-Wishes-App?node-id=0-1&t=PfUNTisdITvxbGLp-1)**|
 
 ---
 
@@ -95,10 +95,10 @@ Highly motivated Full Stack Developer with a passion for solving real-world prob
 
 ## 📩 Contact Me
 
-📧 Email: [omprakash31181@gmail.com](mailto:omprakash31181@gmail.com)  
+📧 Email: **[omprakash31181@gmail.com](mailto:omprakash31181@gmail.com)** 
 📞 Phone: +91-9006622732  
-🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/omprakash416/)  
-📂 Portfolio: [Portfolio](https://om-prakash416-portfolio.vercel.app/)
+🔗 LinkedIn: **[linkedin](https://www.linkedin.com/in/omprakash416/)**  
+📂 Portfolio: **[Portfolio](https://om-prakash416-portfolio.vercel.app/)**
 <div>
  <p align="left"> <a href="https://github.com/om-prakash416" target="_blank" rel="noreferrer"><img src="logo/icons8-github.gif" width="32" height="32" /></a> 
  <a href="[http://www.instagram.com/](https://www.instagram.com/op_416_/)]([https://www.instagram.com/op_416_/](https://www.instagram.com/op_416_/))" target="_blank" rel="noreferrer"><img src="logo/icons8-instagram.gif" width="32" height="32" /></a>
