@@ -95,7 +95,7 @@ Highly motivated Full Stack Developer with a passion for solving real-world prob
 
 ## 📩 Contact Me
 
-📧 Email: **[omprakash31181@gmail.com](mailto:omprakash31181@gmail.com)** 
+📧 Email: **[omprakash31181@gmail.com](mailto:omprakash31181@gmail.com)**   
 📞 Phone: +91-9006622732  
 🔗 LinkedIn: **[linkedin](https://www.linkedin.com/in/omprakash416/)**  
 📂 Portfolio: **[Portfolio](https://om-prakash416-portfolio.vercel.app/)**
