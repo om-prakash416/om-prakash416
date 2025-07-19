@@ -22,12 +22,12 @@ Highly motivated Full Stack Developer with a passion for solving real-world prob
 
 ## 🛠️ Skills & Tools
 
-**Languages:** C, C++, Java, Python, PHP  
-**Web Dev:** HTML5, CSS3, JavaScript, ReactJS, Node.js  
-**Backend:** MongoDB, SQL, Express.js, DBMS,Django 
-**Frameworks/UI:** Bootstrap5, Tailwind CSS, Material UI, Ant Design  
-**Tools:** Git, GitHub, Figma, Postman, VS Code, Illustrator  
-**Concepts:** OOPs, Data Structures, Operating System, SRS Docs
+**Languages:** (C, C++)-Beginner, Java, Python-intermedaite, PHP-Intermediate   
+**Web Dev:** HTML5, CSS3, JavaScript, ReactJS, Node.js,Typescript   
+**Backend:** MongoDB, SQL, Express.js, DBMS,Django    
+**Frameworks/UI:** Bootstrap5, Tailwind CSS, Material UI, Ant Design    
+**Tools:** Git, GitHub, Figma, Postman, VS Code, Illustrator   
+**Concepts:** OOPs, Data Structures, Operating System, SRS Docs  
 
 ![Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,nextjs,nodejs,django,mongodb,express,tailwind,figma,git,github,python,c,cpp,mysql,gcp,java,wordpress,visualstudio,vite,vercel,ts,stackoverflow,replit,php,npm,netlify)
 
