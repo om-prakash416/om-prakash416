@@ -108,12 +108,17 @@ Highly motivated Full Stack Developer with a passion for solving real-world prob
  </div>
 
 <hr>
-<b>My GitHub Stats</b>
+<h3 align="left">📊 GitHub Activity:</h3>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=om-prakash416&show_icons=true&theme=dark&locale=en" alt="om-prakash416" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=om-prakash416&show_icons=true&theme=dark&locale=en&layout=compact" alt="om-prakash416" /></td>
+  </tr>
+</table>
 
-<p align="left">
-  <a href="https://github.com/om-prakash416"><img src="https://github-readme-stats.vercel.app/api?username=om-prakash416&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="om-prakash416 GitHub stats" /></a>
-   <a href="http://www.github.com/om-prakash416"><img src="https://github-readme-streak-stats.herokuapp.com/?user=om-prakash416&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</p>
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=om-prakash416&theme=dark" alt="om-prakash416" /></p>
+  </div>
 
 
 <p align="center">
