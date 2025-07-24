@@ -112,8 +112,8 @@ Highly motivated Full Stack Developer with a passion for solving real-world prob
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=om-prakash416&show_icons=true&theme=dark&locale=en" alt="om-prakash416" /></td>
-<!--     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=om-prakash416&theme=dark" alt="om-prakash416" /></td> -->
-        <td><img align="center" src="https://streak-stats.demolab.com?user=om-prakash416&theme=dark" alt="om-prakash416" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=om-prakash416&theme=dark" alt="om-prakash416" /></td>
+<!--         <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=om-prakash416&theme=dark" alt="om-prakash416" /></td> -->
   </tr>
 </table>
 
