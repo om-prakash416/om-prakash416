@@ -105,7 +105,7 @@ I adapt to project requirements and work with **Next.js, React.js, TypeScript, J
 **Organization:** URLWebwala  
 **Tech:** Next.js, React.js, TypeScript, Laravel REST APIs, PHP, MySQL, Redis, AWS EC2, Docker, Nginx, Linux, WebRTC
 
-🌐 **Production Website:** https://www.hisgro.com/
+<a href="https://www.hisgro.com/"><img src="https://img.shields.io/badge/Live-Production-2ea44f?style=for-the-badge"/></a>
 
 > 🔒 Source code and internal repositories are private. The following describes my responsibilities without exposing proprietary code, credentials, internal APIs, database structures, or confidential business logic.
 
@@ -261,15 +261,15 @@ Multi-role recruitment platform with CEO, HR, and Job Seeker workflows, JWT auth
 
 </details>
 
-🔗 **GitHub:** https://github.com/om-prakash416/Job-applicant-Tracker  
-🌐 **Live:** https://job-applicant-tracker.vercel.app/
+<a href="https://github.com/om-prakash416/Job-applicant-Tracker"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://job-applicant-tracker.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-0e75b6?style=for-the-badge&logo=vercel"/></a>
 
 ### 🤖 LeadPilot-AI
 **TypeScript | AI**
 
 AI-Powered Local Business Growth Platform.
 
-🔗 **GitHub:** https://github.com/om-prakash416/LeadPilot-AI
+<a href="https://github.com/om-prakash416/LeadPilot-AI"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/></a>
 
 ### 👔 JobFit AI — AI-Powered Career Automation Engine
 **TypeScript | Generative AI**
@@ -287,7 +287,7 @@ JobFit AI is a premium, production-ready SaaS platform designed to bridge the ga
 
 </details>
 
-🔗 **GitHub:** https://github.com/om-prakash416/jobfit-ats
+<a href="https://github.com/om-prakash416/jobfit-ats"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/></a>
 
 ### 🌦️ Weather-Based Outfit Suggestion Application
 **Python | Flask | OpenWeatherMap API | REST APIs | Bootstrap**
@@ -299,7 +299,7 @@ Flask application that retrieves real-time weather data, processes JSON API resp
 
 AI-powered chatbot with API-based response generation.
 
-🔗 **GitHub:** https://github.com/om-prakash416/AI-chatBot
+<a href="https://github.com/om-prakash416/AI-chatBot"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/></a>
 
 ### 🗺️ Google Maps Data Extractor Pro
 **Python | CustomTkinter | Playwright**
@@ -324,8 +324,8 @@ A powerful, modern, and completely free Python desktop application to extract bu
 ⚠️ **Disclaimer:** This tool automates a browser to extract publicly available data. Please use responsibly and ensure you comply with Google's Terms of Service regarding automated data extraction.
 </details>
 
-🔗 **GitHub:** https://github.com/om-prakash416/google_maps_data_extractor  
-🌐 **Live Space:** https://omprakash416-google-maps-data-extractor-pro.hf.space/
+<a href="https://github.com/om-prakash416/google_maps_data_extractor"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://omprakash416-google-maps-data-extractor-pro.hf.space/"><img src="https://img.shields.io/badge/Live-Space-0e75b6?style=for-the-badge&logo=huggingface"/></a>
 
 ### 🧞‍♂️ MailGenie — WhatsApp-Integrated AI Email Assistant
 **Python | Generative AI | WhatsApp Webhooks**
@@ -345,47 +345,47 @@ By leveraging generative AI and secure webhook integrations, MailGenie allows us
 
 </details>
 
-🔗 **GitHub:** https://github.com/om-prakash416/mailgenie
+<a href="https://github.com/om-prakash416/mailgenie"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/></a>
 
 ### 📚 Learning Management System
 **PHP | MySQL | HTML | CSS | JavaScript | Bootstrap**
 
 Role-based learning platform with admin/student authentication, user management, notes, videos, and responsive workflows.
 
-🔗 **GitHub:** https://github.com/om-prakash416/lms
+<a href="https://github.com/om-prakash416/lms"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/></a>
 
 ### 💻 Personal Portfolio
 **HTML | CSS | JavaScript**
 
-🔗 **GitHub:** https://github.com/om-prakash416/Portfolio  
-🌐 **Live:** https://om-prakash416-portfolio.vercel.app/
+<a href="https://github.com/om-prakash416/Portfolio"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://om-prakash416-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-0e75b6?style=for-the-badge&logo=vercel"/></a>
 
 ### 🛒 E-commerce Website
 **HTML | CSS | JavaScript**
 
-🔗 **GitHub:** https://github.com/om-prakash416/Ecom-Website  
-🌐 **Live:** https://om-prakash416.github.io/Ecom-Website/
+<a href="https://github.com/om-prakash416/Ecom-Website"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://om-prakash416.github.io/Ecom-Website/"><img src="https://img.shields.io/badge/Live-Demo-0e75b6?style=for-the-badge&logo=vercel"/></a>
 
 ### 🎓 LMS Ecom
 **React | Redux | Node.js | Daisy UI**
 
 Learning platform where courses can be purchased and sold.
 
-🔗 **GitHub:** https://github.com/om-prakash416/lms
+<a href="https://github.com/om-prakash416/lms"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/></a>
 
 ### 🌐 WordPress Website
 **WordPress | The Ark Theme**
 
 Finance Website and Taxes services, blogs, Articles.
 
-🌐 **Live:** https://lodestar-ops.com/
+<a href="https://lodestar-ops.com/"><img src="https://img.shields.io/badge/Live-Demo-0e75b6?style=for-the-badge&logo=vercel"/></a>
 
 ### 🧩 DSA-javascript
 **JavaScript**
 
 Data structures and algorithms implemented in JS.
 
-🔗 **GitHub:** https://github.com/om-prakash416/DSA-javascript
+<a href="https://github.com/om-prakash416/DSA-javascript"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/></a>
 
 ---
 
