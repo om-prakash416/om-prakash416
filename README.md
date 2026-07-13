@@ -426,15 +426,25 @@ Data structures and algorithms implemented in JS.
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om-prakash416&show_icons=true&theme=tokyonight&hide_border=true" alt="om-prakash416" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om-prakash416&theme=tokyonight&hide_border=true" alt="om-prakash416" />
-</div>
+## 📊 GitHub Activity & Developer Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=om-prakash416&show_icons=true&theme=tokyonight&hide_border=true&layout=compact"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=om-prakash416&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Om Prakash GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=om-prakash416&theme=tokyonight&hide_border=true" alt="Om Prakash GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-prakash416&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Om Prakash Top Languages"/>
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=om-prakash416&theme=tokyo-night&hide_border=true&area=true" alt="Om Prakash Contribution Graph"/>
+</p>
+
+<p align="center">
+  <b>Building • Integrating • Debugging • Deploying 🚀</b>
 </p>
 
 ---
