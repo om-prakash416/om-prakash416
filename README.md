@@ -1,129 +1,409 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Om%20Prakash&height=140&section=header&fontSize=45"/>
 </p>
 
-# Om Prakash
+# Hi 👋, I'm Om Prakash
 
-![Profile Views](https://komarev.com/ghpvc/?username=om-prakash416&label=Profile%20views&color=0e75b6&style=flat)
+### Full Stack Developer | Next.js • React • TypeScript • API Integrations • AWS
 
-## 🧑‍💼 About Me
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=om-prakash416&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
-Highly motivated Full Stack Developer with a passion for solving real-world problems. I specialize in building full-stack web applications using modern JavaScript technologies and have experience in UI/UX design, server-side logic, and database integration.
-
-- 🔭 Currently working as **Frontend Developer and UI & UX at Freelance Working** 
-- 💼 Past role: **Frontend Developer at Praeclarum** (Dec 2024 – May 2025)  
-- 🌱 Learning: **Next.js, AI tools, Dsa(Java)**  
-- 📍 Based in **Ahmedabad, Gujarat, India**  
-- 📨 Email: **omprakash31181@gmail.com**  
-- 📄 **[Download My Resume (PDF)](https://drive.google.com/file/d/1QSY8FDvwwrSL0rarP4Rp9UEjDSbyhkA-/view?usp=sharing)**
-
----
-
-## 🛠️ Skills & Tools
-
-**Languages:** (C, C++)-Beginner, Java, Python-intermedaite, PHP-Intermediate   
-**Web Dev:** HTML5, CSS3, JavaScript, ReactJS, Node.js,Typescript   
-**Backend:** MongoDB, SQL, Express.js, DBMS,Django    
-**Frameworks/UI:** Bootstrap5, Tailwind CSS, Material UI, Ant Design    
-**Tools:** Git, GitHub, Figma, Postman, VS Code, Illustrator   
-**Concepts:** OOPs, Data Structures, Operating System, SRS Docs  
-
-![Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,nextjs,nodejs,django,mongodb,express,tailwind,figma,git,github,python,c,cpp,mysql,gcp,java,wordpress,visualstudio,vite,vercel,ts,stackoverflow,replit,php,npm,netlify)
+<p align="center">
+<a href="https://www.linkedin.com/in/omprakash416/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:omprakash31181@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/></a>
+<a href="https://om-prakash416-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/></a>
+<a href="https://drive.google.com/file/d/1QSY8FDvwwrSL0rarP4Rp9UEjDSbyhkA-/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=googledrive"/></a>
+</p>
 
 ---
 
-## 🚀 Projects
+## 👨‍💻 About Me
 
-| Project Name | Tech Stack | Description | Links | Live |
-|--------------|------------|-------------|-------|-----------|
-| **My Portfolio** | Html,Css, Javascript| Portfolio | **[GitHub](https://github.com/om-prakash416/Portfolio)** | **[Live](https://om-prakash416-portfolio.vercel.app/)**|
-| **Ecom Website** | HTML ,CSS,Javascript | Product Base Website | **[GitHub](https://github.com/om-prakash416/Ecom-Website/tree/main)** |**[Live](https://om-prakash416.github.io/Ecom-Website/)** |
-| **Wordpress Website** | Wordpress , The Ark Theme| Finance Website and Taxes services ,blogs,Articles  | [Github]()| **[Live](https://lodestar-ops.com/)**|
-| **Job-Applcant-Tracker** | MERN, Multer, Nodemailer | Multi-role tracking & resume parsing | **[GitHub](https://github.com/om-prakash416/Job-applicant-Tracker)** | **[Live](https://job-applicant-tracker.vercel.app/)**|
-| **LMS with Admin and Students Panel** | Html,css ,javascript,php,bootstrap | Learning platform with auth,admin and students panel | **[GitHub](https://github.com/om-prakash416/lms)**|  **[Live]()**|
-| **Weather App** | Python, Flask, Bootstrap | Real-time weather & outfit suggestions | [GitHub](#) |  [Live]()|
-| **Food Delivery App** | MERN, Redux, JWT | Dynamic food website with cart & auth | [GitHub](#) | [Live]()|
-| **Smart Chatbot** | Python, Streamlit, OpenAI | AI chatbot with NLP & ChatGPT | **[GitHub](https://github.com/om-prakash416/AI-chatBot)** |  [Live](#)|
-| **Sweets Website** | Html,Css| Sweets basic html website | **[Github](https://github.com/om-prakash416/Html/blob/main/Sweets/Readme.md)** | [Live](#)|
- **LMS Ecom** | React,Redux,Nodejs,Daisy Ui | Learning platform where course purchase and sell | **[GitHub](https://github.com/om-prakash416/lms)**|  [Live]()|
+I'm a **Full Stack Developer** with hands-on experience in a fast-paced startup environment, building, integrating, deploying, and maintaining production web applications across multiple technology stacks.
 
+I adapt to project requirements and work with **Next.js, React.js, TypeScript, JavaScript, Shopify, WordPress, PHP, REST APIs, and cloud infrastructure**. My experience covers customer-facing applications, admin panels, e-commerce workflows, third-party integrations, logistics, CRM operations, technical SEO, and production deployment.
 
-## 🚀 UI & Ux Projects By Me
-
-|Project Name | Uses|Live |
-|-------------|-----| --------|
-|**POS System** | UAE Mall| **[Figma](https://www.figma.com/design/tQuJjFJneyNjaLRv7kkBkA/Pos-Figma?node-id=0-1&t=9h3Kcr4CcdHSyd15-1)**|
-|**Admin Panel** | Job Applicant Tracker| **[Figma](https://www.figma.com/design/c71Qrema4I2DkA6AFbktwn/TalentBox?node-id=2-205)**|
-|**Mobile Application LMS** | App| **[Figma](https://www.figma.com/design/5BRUd2ntxWYTuOxiEFfzBc/Untitled?node-id=0-1&t=WotGjV8Gj2293JpC-1)**|
-|**Online Food Store** | Food website| **[Figma](https://www.figma.com/design/o5aBKZnBsKoMN6Zk7KJkCL/Online-Food-Website?node-id=0-1&t=WotGjV8Gj2293JpC-1)**|
-|**Communities Birthday Wishess App** | Communities member birthday wishes application| **[Figma](https://www.figma.com/design/JyKXDJQS5zaGhFHBpyrhOp/Birthday-Wishes-App?node-id=0-1&t=PfUNTisdITvxbGLp-1)**|
+- 💼 Full Stack Developer at **URLWebwala**
+- 🚀 Building production e-commerce and business applications
+- 🧑‍⚕️ Contributing to the **HisGro production ecosystem**
+- 🔗 REST API and third-party service integrations
+- 🚚 Logistics, shipment, and tracking workflows
+- 📞 WebRTC and browser-based telecalling workflows
+- 📍 Google Maps-based public business research and lead workflows
+- 🔍 Technical SEO and admin-controlled SEO management
+- ☁️ AWS EC2, Docker, Nginx, Linux, MySQL, and Redis
+- 🧪 Postman API testing and k6 load testing
+- 📍 Ahmedabad, Gujarat, India
+- 📧 **omprakash31181@gmail.com**
 
 ---
 
-## 💼 Experience
+## ⚡ Technology Stack
 
-- **Frontend Developer – Praeclarum Tech** (Dec 2024 – May 2025)  
-  🔧 UI/UX with Figma, ReactJS, Material UI, API integrations, Excel + SRS design
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=nextjs,react,js,ts,html,css,tailwind,bootstrap,materialui,vite)
 
-- **Web Developer – WebNX** (Sep 2023 – Mar 2024)  
-  🔧 WordPress, Rank Math SEO, HTML5, CSS3, PHP, multi-device optimization
+`Next.js` `React.js` `JavaScript` `TypeScript` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `Material UI` `Ant Design`
+
+### Backend & APIs
+![Backend](https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,flask)
+
+`Node.js` `Express.js` `PHP` `Laravel REST API Integration` `Python` `Flask` `REST APIs` `JWT` `Third-Party API Integration` `WebRTC`
+
+### Database & Cache
+![Database](https://skillicons.dev/icons?i=mysql,mongodb,redis)
+
+`MySQL` `MongoDB` `Redis` `DBMS`
+
+### Cloud & DevOps
+![DevOps](https://skillicons.dev/icons?i=aws,docker,nginx,linux,git,github,githubactions,vercel)
+
+`AWS EC2` `Docker` `Docker Compose` `Nginx` `Linux` `SSL/TLS` `CI/CD` `Git` `GitHub` `GitHub Actions` `Vercel`
+
+### CMS, E-commerce & SEO
+`Shopify` `WordPress` `WooCommerce` `Technical SEO` `On-Page SEO` `Dynamic Metadata` `Product SEO` `Blog SEO` `Sitemap Management`
+
+### Tools & Testing
+`Postman` `Figma` `VS Code` `k6` `API Testing` `MongoDB Compass`
+
+---
+
+## 💼 Professional Experience
+
+### 🚀 Full Stack Developer — URLWebwala
+**Jan 2026 – Present | Ahmedabad, Gujarat**
+
+- Develop and maintain production applications across multiple technology stacks based on project requirements.
+- Work with Next.js, React.js, TypeScript, JavaScript, Shopify, WordPress, HTML, CSS, PHP, and REST APIs.
+- Contribute across UI development, admin modules, API integration, third-party services, debugging, deployment, and production support.
+- Quickly understand existing codebases and deliver project-specific business requirements in a startup environment.
+
+### 🎨 Frontend Developer Intern — Praeclarum Tech
+**Dec 2024 – May 2025 | Ahmedabad, Gujarat**
+
+- Built responsive React.js interfaces from Figma designs.
+- Integrated REST APIs using Material UI and Ant Design.
+- Prepared SRS documentation and structured project data.
+
+### 🌐 Web Developer Intern — WebNX
+**Sep 2023 – Mar 2024 | Ahmedabad, Gujarat**
+
+- Developed responsive WordPress and PHP websites.
+- Worked with HTML5, CSS3, JavaScript, and PHP.
+- Improved on-page SEO using Rank Math.
+
+---
+
+# 🏢 Production & Private Project Experience
+
+## 🧑‍⚕️ HisGro — E-commerce, CRM & Hair Wellness Platform
+
+**Role:** Full Stack Developer  
+**Project Type:** Private Commercial Production Application  
+**Organization:** URLWebwala  
+**Tech:** Next.js, React.js, TypeScript, Laravel REST APIs, PHP, MySQL, Redis, AWS EC2, Docker, Nginx, Linux, WebRTC
+
+🌐 **Production Website:** https://www.hisgro.com/
+
+> 🔒 Source code and internal repositories are private. The following describes my responsibilities without exposing proprietary code, credentials, internal APIs, database structures, or confidential business logic.
+
+HisGro is a production e-commerce and hair wellness ecosystem consisting of a customer website, internal admin platform, API-driven workflows, logistics operations, CRM and telecalling, warehouse operations, salon management, lead management, SEO, and content management.
+
+### 🛒 Product & Catalog Management
+- Product listing, creation, editing, and catalog workflows
+- Product details, media, SKU-related information, and content management
+- Product metadata and SEO fields
+- Dynamic customer-facing product information
+- API-driven product rendering and admin-to-website synchronization
+- Product filtering and frontend data handling
+
+### 📦 Order Management
+- Order listing, details, filtering, and status workflows
+- Customer order information and operational actions
+- API-driven order management
+- Order processing and logistics module integration
+
+### 🚚 Logistics & Third-Party API Integrations
+- Multiple logistics and shipping service integration workflows
+- REST API authentication and third-party API integration
+- Shipment creation and order-to-shipment processing
+- Request payload and JSON response handling
+- API request/response mapping
+- Shipment tracking and logistics status workflows
+- Error handling and failed request debugging
+- Postman-based integration testing
+- Frontend/backend data synchronization
+
+### 📍 Google Maps-Based Lead Generation
+Worked on location-based business lead discovery using publicly available business information.
+- Area-based salon and business discovery
+- Google Maps-based public business research
+- Business name, public phone, address, website, and rating information
+- Public Maps listing references
+- Location, latitude, and longitude data organization
+- Area-wise lead structuring
+- Excel-compatible data preparation
+- Data cleanup and duplicate review
+- Lead import preparation and CRM-oriented organization
+- Target-area research including Gota, Chandlodiya, and other business locations
+- Explored Python-based workflows for processing and organizing business lead datasets
+
+### 🎯 Lead Management & CRM
+- Lead listing and information management
+- Lead filtering, source handling, and status workflows
+- Area-based business lead organization
+- Admin lead management
+- CRM-oriented workflows
+- Lead and telecalling workflow integration
+
+### 📞 WebRTC & Telecalling
+- WebRTC SDK integration workflows
+- Browser-based and API-driven calling
+- Incoming and outgoing call flow analysis
+- IVR greeting and language-selection workflow planning
+- Call waiting and call management workflows
+- Telecaller-oriented admin modules
+- Lead and CRM integration
+- API authentication and user-mapping debugging
+- WebRTC application configuration
+- Postman API testing
+- Frontend/backend calling workflow coordination
+
+### 🏬 Warehouse & Salon Management
+- Warehouse listing and operational data workflows
+- Order and warehouse workflow integration
+- API-driven warehouse information
+- Salon listing and information management
+- Salon lead and business data workflows
+- Salon and lead module integration
+
+### 👥 Role-Based Access Control
+Worked with role and permission-driven workflows for **Super Admin, Admin, Salon, User, and Doctor**.
+- Role-based modules and UI behavior
+- Permission-driven interfaces
+- User management
+- Protected workflows
+- Authentication-related frontend integration
+
+### 📝 Blog, Content & SEO Management
+- Blog listing, creation, editing, and content management
+- Blog metadata and SEO fields
+- API-driven blog rendering
+- Admin-to-website content synchronization
+- Dynamic metadata, meta titles, and meta descriptions
+- Product SEO and blog SEO
+- SEO-friendly content structure
+- Sitemap-related workflows
+- Admin-controlled SEO fields
+- Technical SEO troubleshooting
+
+### 🔔 Admin & Operational Modules
+`Notifications` `Expenses` `Media Management` `Users` `Products` `Orders` `Leads` `Telecalling` `Warehouses` `Salons`
+
+### ☁️ AWS, Docker & Production Deployment
+- AWS EC2 and Linux server operations
+- Docker and Docker Compose
+- Nginx and SSL/TLS
+- Git-based deployment and CI/CD workflows
+- Vercel staging deployments
+- Frontend, admin, and API deployment
+- Multi-service containerized environments
+- PHP application containers, MySQL, Redis, and queue workers
+- Container logs, health checks, service restart, and debugging
+
+### 🌐 Nginx, Domains & SSL
+- Nginx server and reverse proxy configuration
+- Frontend, admin, and API routing
+- Domain and subdomain configuration
+- HTTPS and SSL workflows
+- Redirect handling
+- Configuration testing and error-log investigation
+- Routing issue debugging
+
+### 🗄️ Backend Operations
+- MySQL-driven application workflows
+- Redis service management
+- Laravel queue workflows
+- Failed job investigation
+- Cache and database configuration troubleshooting
+- Production log analysis
+
+### 🧪 Production Debugging & Performance Testing
+Investigated `HTTP 500 Errors`, `REST API Failures`, `CORS`, `Docker`, `Nginx Routing`, `SSL`, `Queues`, `Database Connectivity`, `Redis`, `Build Failures`, and `Deployment Failures`.
+Performed **k6 load testing** to analyze application behavior under high concurrent traffic and investigate server errors, application bottlenecks, and production stability.
+
+### 🔄 Git & Collaborative Development
+- Feature, staging, and production branches
+- Git stash and stash pop workflows
+- Merge workflows and conflict resolution
+- Existing codebase maintenance
+- Multi-developer collaboration
+- GitHub-based deployment workflows
+
+---
+
+## 🚀 Featured Public Projects
+
+### 💼 Job Applicant Tracker
+**MERN | JWT | Multer | Nodemailer | CSV/Excel Processing**
+
+Multi-role recruitment platform with CEO, HR, and Job Seeker workflows, JWT authentication, resume management, applicant filtering, skill tagging, CSV/Excel export, master data management, and automated email notifications.
+
+🔗 **GitHub:** https://github.com/om-prakash416/Job-applicant-Tracker  
+🌐 **Live:** https://job-applicant-tracker.vercel.app/
+
+### 🤖 LeadPilot-AI
+**TypeScript | AI**
+
+AI-Powered Local Business Growth Platform.
+
+🔗 **GitHub:** https://github.com/om-prakash416/LeadPilot-AI
+
+### 👔 jobfit-ats
+**TypeScript | AI**
+
+AI-powered resume analyzer, skill gap analysis, and personalized career roadmap.
+
+🔗 **GitHub:** https://github.com/om-prakash416/jobfit-ats
+
+### 🌦️ Weather-Based Outfit Suggestion Application
+**Python | Flask | OpenWeatherMap API | REST APIs | Bootstrap**
+
+Flask application that retrieves real-time weather data, processes JSON API responses, evaluates temperature and conditions, and uses rule-based Python logic to generate outfit recommendations. Includes invalid-location and external API failure handling.
+
+### 🧠 Smart AI Chatbot
+**Python | Streamlit | OpenAI API**
+
+AI-powered chatbot with API-based response generation.
+
+🔗 **GitHub:** https://github.com/om-prakash416/AI-chatBot
+
+### 🗺️ Google Maps Data Extractor
+**Python**
+
+Google Maps Data Extractor tool.
+
+🔗 **GitHub:** https://github.com/om-prakash416/google_maps_data_extractor
+
+### 📧 MailGenie
+**Python**
+
+Mail handling and automation tool.
+
+🔗 **GitHub:** https://github.com/om-prakash416/mailgenie
+
+### 📚 Learning Management System
+**PHP | MySQL | HTML | CSS | JavaScript | Bootstrap**
+
+Role-based learning platform with admin/student authentication, user management, notes, videos, and responsive workflows.
+
+🔗 **GitHub:** https://github.com/om-prakash416/lms
+
+### 💻 Personal Portfolio
+**HTML | CSS | JavaScript**
+
+🔗 **GitHub:** https://github.com/om-prakash416/Portfolio  
+🌐 **Live:** https://om-prakash416-portfolio.vercel.app/
+
+### 🛒 E-commerce Website
+**HTML | CSS | JavaScript**
+
+🔗 **GitHub:** https://github.com/om-prakash416/Ecom-Website  
+🌐 **Live:** https://om-prakash416.github.io/Ecom-Website/
+
+### 🎓 LMS Ecom
+**React | Redux | Node.js | Daisy UI**
+
+Learning platform where courses can be purchased and sold.
+
+🔗 **GitHub:** https://github.com/om-prakash416/lms
+
+### 🌐 WordPress Website
+**WordPress | The Ark Theme**
+
+Finance Website and Taxes services, blogs, Articles.
+
+🌐 **Live:** https://lodestar-ops.com/
+
+### 🧩 DSA-javascript
+**JavaScript**
+
+Data structures and algorithms implemented in JS.
+
+🔗 **GitHub:** https://github.com/om-prakash416/DSA-javascript
+
+---
+
+## 🎨 UI/UX Portfolio
+
+| Project | Purpose | Design |
+|---|---|---|
+| POS System | UAE Mall POS Workflow | [Figma](https://www.figma.com/design/tQuJjFJneyNjaLRv7kkBkA/Pos-Figma) |
+| Job Applicant Admin Panel | Recruitment Management | [Figma](https://www.figma.com/design/c71Qrema4I2DkA6AFbktwn/TalentBox) |
+| LMS Mobile Application | Learning Platform | [Figma](https://www.figma.com/design/5BRUd2ntxWYTuOxiEFfzBc/Untitled) |
+| Online Food Store | Food Ordering Platform | [Figma](https://www.figma.com/design/o5aBKZnBsKoMN6Zk7KJkCL/Online-Food-Website) |
+| Community Birthday App | Member Birthday Management | [Figma](https://www.figma.com/design/JyKXDJQS5zaGhFHBpyrhOp/Birthday-Wishes-App) |
 
 ---
 
 ## 🎓 Education
 
-- 🎓 **B.Tech in Computer Engineering**  
-  Silver Oak University, Ahmedabad (2022 – Present)
+**B.Tech in Computer Engineering — Silver Oak University, Ahmedabad**  
+2022 – 2026 | **CGPA: 8.4**
 
-- 🎓 **Intermediate (PCM)**  
-  J.K.Y Senior Secondary School, Gaya (2022)
+**Intermediate in PCM — J.K.Y Senior Secondary School**  
+2021 – 2022
 
-- 🎓 **Schooling**  
-  Gurukul Sherghati School, Gaya (2020)
 ---
 
 ## 📜 Certifications
 
+- 🏅 NPTEL — Java Programming and Data Structures, IIT Kharagpur
+- ☁️ Google Cloud & Developer Groups — GenAI Study Jam 2024
+- 🌐 NPTEL — Introduction to Internet of Things, IIT Kharagpur
 - 🏅 PDP – Personality Development Programme (Nov 2022)
 - 🏅 OJT – On Job Training (Apr 2023)
-- 🏅 NPTEL – Java Programming & Data Structures, IIT Kharagpur (Oct 2023)
-- 🏅 Google Cloud GenAI Study Jam (Dec 2024)
-- 🏅 NPTEL – Introduction to IoT, IIT Kharagpur (Apr 2025)
 
 ---
 
-## 📩 Contact Me
+## 📊 GitHub Activity
 
-📧 Email: **[omprakash31181@gmail.com](mailto:omprakash31181@gmail.com)**   
-📞 Phone: +91-9006622732  
-🔗 LinkedIn: **[linkedin](https://www.linkedin.com/in/omprakash416/)**  
-📂 Portfolio: **[Portfolio](https://om-prakash416-portfolio.vercel.app/)**
-<div>
- <p align="left"> <a href="https://github.com/om-prakash416" target="_blank" rel="noreferrer"><img src="logo/icons8-github.gif" width="32" height="32" /></a> 
- <a href="[http://www.instagram.com/](https://www.instagram.com/op_416_/)]([https://www.instagram.com/op_416_/](https://www.instagram.com/op_416_/))" target="_blank" rel="noreferrer"><img src="logo/icons8-instagram.gif" width="32" height="32" /></a>
- <a href="https://twitter.com/op_416_" target="_blank" rel="noreferrer"><img src="logo/icons8-twitter.gif" width="32" height="32" /></a></p>
-  <a href="mailto:omprakash31181@gmail.com?"><img src="https://img.shields.io/badge/Gmail-ffcdd2?logo=gmail&style=for-the-badge"/></a> &nbsp; &nbsp; 
-  <a href="[[[www.linkedin.com/in/omprakash416]([https://www.linkedin.com/in/omprakash416/]([https://www.linkedin.com/in/omprakash416/]([https://www.linkedin.com/in/omprakash416/]([https://www.linkedin.com/in/omprakash416/](https://www.linkedin.com/in/omprakash416/)))))]([https://www.linkedin.com/in/omprakash416/](https://www.linkedin.com/in/omprakash416/))]([[https://www.linkedin.com/in/omprakash416]([https://www.linkedin.com/in/omprakash416](https://www.linkedin.com/in/omprakash416/)/)](https://www.linkedin.com/in/omprakash416/)/)"><img src="https://img.shields.io/badge/LinkedIn-01579b?logo=linkedin&style=for-the-badge"/></a> &nbsp; &nbsp; 
- </div>
-
-<hr>
-<h3 align="left">📊 GitHub Activity:</h3>
-<table>
+<table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=om-prakash416&show_icons=true&theme=dark&locale=en" alt="om-prakash416" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=om-prakash416&theme=dark" alt="om-prakash416" /></td>
-<!--         <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=om-prakash416&theme=dark" alt="om-prakash416" /></td> -->
+    <td><img src="https://github-readme-stats.vercel.app/api?username=om-prakash416&show_icons=true&theme=tokyonight&hide_border=true" alt="om-prakash416" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=om-prakash416&theme=tokyonight&hide_border=true" alt="om-prakash416" /></td>
   </tr>
 </table>
 
-<div align="center">
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=om-prakash416&show_icons=true&theme=dark&locale=en&layout=compact" alt="om-prakash416" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=om-prakash416&show_icons=true&theme=tokyonight&hide_border=true&layout=compact"/>
 </p>
-  </div>
 
+---
+
+## 🤝 Open to Opportunities
+
+I'm open to opportunities as a **Full Stack Developer, Software Developer, Next.js Developer, React.js Developer, or Frontend Developer**.
+
+I enjoy working in startup environments, adapting to project-specific technologies, integrating complex APIs, and taking features from requirements to production.
+
+📧 **Email:** omprakash31181@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/omprakash416/  
+💻 **GitHub:** https://github.com/om-prakash416  
+🌐 **Portfolio:** https://om-prakash416-portfolio.vercel.app/
+
+<br />
+
+<div align="center">
+ <p align="center"> 
+ <a href="https://github.com/om-prakash416" target="_blank" rel="noreferrer"><img src="logo/icons8-github.gif" width="32" height="32" /></a> 
+ <a href="https://www.instagram.com/op_416_/" target="_blank" rel="noreferrer"><img src="logo/icons8-instagram.gif" width="32" height="32" /></a>
+ <a href="https://twitter.com/op_416_" target="_blank" rel="noreferrer"><img src="logo/icons8-twitter.gif" width="32" height="32" /></a>
+ </p>
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
