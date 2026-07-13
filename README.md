@@ -111,6 +111,9 @@ I adapt to project requirements and work with **Next.js, React.js, TypeScript, J
 
 HisGro is a production e-commerce and hair wellness ecosystem consisting of a customer website, internal admin platform, API-driven workflows, logistics operations, CRM and telecalling, warehouse operations, salon management, lead management, SEO, and content management.
 
+<details>
+<summary><b>View Extensive Technical & Operational Details</b></summary>
+
 ### 🛒 Product & Catalog Management
 - Product listing, creation, editing, and catalog workflows
 - Product details, media, SKU-related information, and content management
@@ -242,6 +245,8 @@ Performed **k6 load testing** to analyze application behavior under high concurr
 - Multi-developer collaboration
 - GitHub-based deployment workflows
 
+</details>
+
 ---
 
 ## 🚀 Featured Public Projects
@@ -249,7 +254,12 @@ Performed **k6 load testing** to analyze application behavior under high concurr
 ### 💼 Job Applicant Tracker
 **MERN | JWT | Multer | Nodemailer | CSV/Excel Processing**
 
+<details>
+<summary><b>View Project Details & Features</b></summary>
+
 Multi-role recruitment platform with CEO, HR, and Job Seeker workflows, JWT authentication, resume management, applicant filtering, skill tagging, CSV/Excel export, master data management, and automated email notifications.
+
+</details>
 
 🔗 **GitHub:** https://github.com/om-prakash416/Job-applicant-Tracker  
 🌐 **Live:** https://job-applicant-tracker.vercel.app/
@@ -261,10 +271,21 @@ AI-Powered Local Business Growth Platform.
 
 🔗 **GitHub:** https://github.com/om-prakash416/LeadPilot-AI
 
-### 👔 jobfit-ats
-**TypeScript | AI**
+### 👔 JobFit AI — AI-Powered Career Automation Engine
+**TypeScript | Generative AI**
 
-AI-powered resume analyzer, skill gap analysis, and personalized career roadmap.
+JobFit AI is a premium, production-ready SaaS platform designed to bridge the gap between job seekers and their dream careers using advanced generative AI and a futuristic cyberpunk-inspired UI/UX.
+
+<details>
+<summary><b>View Project Details & Features</b></summary>
+
+**⚡ Key Features**
+- **AI Resume Parser & ATS Scorer:** Extracts key details (experience, skills, education) and matches resumes against Job Descriptions (JDs) for ATS compatibility scores, highlighting missing keywords.
+- **Intelligent Skill Gap Analysis:** Identifies exact technologies/frameworks missing from your profile and provides an actionable checklist.
+- **Personalized Learning Roadmaps:** Generates custom-tailored step-by-step roadmaps and resource recommendations to bridge skill gaps fast.
+- **Automated Job Matching:** Aggregates and filters relevant job openings matching your updated profile and skills.
+
+</details>
 
 🔗 **GitHub:** https://github.com/om-prakash416/jobfit-ats
 
@@ -280,12 +301,31 @@ AI-powered chatbot with API-based response generation.
 
 🔗 **GitHub:** https://github.com/om-prakash416/AI-chatBot
 
-### 🗺️ Google Maps Data Extractor
-**Python**
+### 🗺️ Google Maps Data Extractor Pro
+**Python | CustomTkinter | Playwright**
 
-Google Maps Data Extractor tool.
+A powerful, modern, and completely free Python desktop application to extract business data from Google Maps and save it directly to CSV.
 
-🔗 **GitHub:** https://github.com/om-prakash416/google_maps_data_extractor
+<details>
+<summary><b>View Project Details & Features</b></summary>
+
+**✨ Features**
+- **Modern UI:** Built with CustomTkinter for a sleek, dark-mode graphical interface.
+- **Headless Browsing:** Runs Google Chrome silently in the background using Playwright.
+- **Dynamic Search:** Search for any business type (Saloons, Plumbers, Hospitals, Gyms, etc.) in any Area/City.
+- **Radius Filter:** Option to specify a search radius (e.g., within 5 km).
+- **Interruptible:** Built-in "Stop & Save" button to halt scraping anytime and save the data extracted so far.
+- **No API Limits:** Completely free to use. No Google Cloud API Keys required.
+- **Lightweight Export:** Uses Python's built-in `csv` module, meaning no heavy C++ dependencies like Pandas are needed.
+
+**📂 Extracted Data Fields**
+`Name` `Search Category` `Area` `Address` `Phone Number` `Website` `Latitude & Longitude` `Google Maps URL`
+
+⚠️ **Disclaimer:** This tool automates a browser to extract publicly available data. Please use responsibly and ensure you comply with Google's Terms of Service regarding automated data extraction.
+</details>
+
+🔗 **GitHub:** https://github.com/om-prakash416/google_maps_data_extractor  
+🌐 **Live Space:** https://omprakash416-google-maps-data-extractor-pro.hf.space/
 
 ### 📧 MailGenie
 **Python**
