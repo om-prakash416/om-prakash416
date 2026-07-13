@@ -327,10 +327,23 @@ A powerful, modern, and completely free Python desktop application to extract bu
 🔗 **GitHub:** https://github.com/om-prakash416/google_maps_data_extractor  
 🌐 **Live Space:** https://omprakash416-google-maps-data-extractor-pro.hf.space/
 
-### 📧 MailGenie
-**Python**
+### 🧞‍♂️ MailGenie — WhatsApp-Integrated AI Email Assistant
+**Python | Generative AI | WhatsApp Webhooks**
 
-Mail handling and automation tool.
+MailGenie is an intelligent, AI-powered email management assistant that brings the power of your inbox directly to your favorite messaging app: **WhatsApp**.
+
+<details>
+<summary><b>View Project Details & Features</b></summary>
+
+By leveraging generative AI and secure webhook integrations, MailGenie allows users to draft, read, reply to, and summarize professional emails using simple WhatsApp text commands or voice notes. Perfect for busy professionals and developers who want to manage their inbox on the go without constantly opening an email client.
+
+**⚡ Key Features**
+- **Natural Language Email Drafting:** Send a rough text prompt or voice note on WhatsApp and MailGenie will draft a professional, context-aware email.
+- **Smart Summarization & Alerts:** Get automated inbox digests of important unread emails and priority alerts for urgent messages.
+- **Seamless Actions (Reply & Archive):** Reply to emails directly from WhatsApp, or archive/mark as read using interactive buttons or text commands.
+- **Secure Authentication & Privacy:** OAuth 2.0 integration securely links with Gmail/Outlook without storing passwords, using temporary secure tokens.
+
+</details>
 
 🔗 **GitHub:** https://github.com/om-prakash416/mailgenie
 
