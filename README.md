@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/omprakash416/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:omprakash31181@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/></a>
 <a href="https://om-prakash416-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/></a>
-<a href="https://drive.google.com/file/d/1QSY8FDvwwrSL0rarP4Rp9UEjDSbyhkA-/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=googledrive"/></a>
+<a href="https://drive.google.com/file/d/1NgdsQz0NlmCscZQO8jG_xMz0v0_dsUrj/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=googledrive"/></a>
 </p>
 
 ---
@@ -264,10 +264,15 @@ Multi-role recruitment platform with CEO, HR, and Job Seeker workflows, JWT auth
 <a href="https://github.com/om-prakash416/Job-applicant-Tracker"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/></a>
 <a href="https://job-applicant-tracker.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-0e75b6?style=for-the-badge&logo=vercel"/></a>
 
-### 🤖 LeadPilot-AI
-**TypeScript | AI**
+### ✈️ LeadPilot-AI — AI-Powered Local Business Growth Platform
+**TypeScript | Generative AI | B2B SaaS**
 
-AI-Powered Local Business Growth Platform.
+<details>
+<summary><strong> 🔽 Click to Expand & View Project Details & Features </strong></summary>
+
+LeadPilot-AI is an enterprise-grade, high-performance B2B SaaS platform specifically engineered to bridge the digital execution gap for local small-to-medium businesses (SMBs). Operating as an asynchronous omnichannel communication engine, LeadPilot-AI acts as a centralized brain that dynamically ingests raw, unstructured incoming interactions from various modern consumer touchpoints and maps them seamlessly into strict, structured transactional business outcomes.
+
+</details>
 
 <a href="https://github.com/om-prakash416/LeadPilot-AI"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/></a>
 
