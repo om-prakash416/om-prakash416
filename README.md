@@ -13,6 +13,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/omprakash416/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:omprakash31181@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/></a>
+<a href="https://wa.me/919006622732?text=Hello%20Om,%20I%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20connect!"><img src="https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<br/>
 <a href="https://om-prakash416-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/></a>
 <a href="https://drive.google.com/file/d/1NgdsQz0NlmCscZQO8jG_xMz0v0_dsUrj/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=googledrive"/></a>
 </p>
