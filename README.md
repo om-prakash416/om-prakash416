@@ -429,12 +429,12 @@ Data structures and algorithms implemented in JS.
 ## 📊 GitHub Activity & Developer Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=om-prakash416&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Om Prakash GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=om-prakash416&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Om Prakash GitHub Stats"/>
   <img width="49%" src="https://streak-stats.demolab.com?user=om-prakash416&theme=tokyonight&hide_border=true" alt="Om Prakash GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-prakash416&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Om Prakash Top Languages"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=om-prakash416&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Om Prakash Top Languages"/>
 </p>
 
 ### 📈 Contribution Activity
