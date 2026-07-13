@@ -112,7 +112,7 @@ I adapt to project requirements and work with **Next.js, React.js, TypeScript, J
 HisGro is a production e-commerce and hair wellness ecosystem consisting of a customer website, internal admin platform, API-driven workflows, logistics operations, CRM and telecalling, warehouse operations, salon management, lead management, SEO, and content management.
 
 <details>
-<summary><img src="https://img.shields.io/badge/-%F0%9F%91%87%20View%20Extensive%20Technical%20%26%20Operational%20Details-0e75b6?style=for-the-badge" alt="View Details" /></summary>
+<summary><strong> 🔽 Click to Expand & View Extensive Technical Details </strong></summary>
 
 ### 🛒 Product & Catalog Management
 - Product listing, creation, editing, and catalog workflows
@@ -255,7 +255,7 @@ Performed **k6 load testing** to analyze application behavior under high concurr
 **MERN | JWT | Multer | Nodemailer | CSV/Excel Processing**
 
 <details>
-<summary><img src="https://img.shields.io/badge/-%F0%9F%91%87%20View%20Project%20Details%20%26%20Features-0e75b6?style=for-the-badge" alt="View Details" /></summary>
+<summary><strong> 🔽 Click to Expand & View Project Details & Features </strong></summary>
 
 Multi-role recruitment platform with CEO, HR, and Job Seeker workflows, JWT authentication, resume management, applicant filtering, skill tagging, CSV/Excel export, master data management, and automated email notifications.
 
@@ -277,7 +277,7 @@ AI-Powered Local Business Growth Platform.
 JobFit AI is a premium, production-ready SaaS platform designed to bridge the gap between job seekers and their dream careers using advanced generative AI and a futuristic cyberpunk-inspired UI/UX.
 
 <details>
-<summary><img src="https://img.shields.io/badge/-%F0%9F%91%87%20View%20Project%20Details%20%26%20Features-0e75b6?style=for-the-badge" alt="View Details" /></summary>
+<summary><strong> 🔽 Click to Expand & View Project Details & Features </strong></summary>
 
 **⚡ Key Features**
 - **AI Resume Parser & ATS Scorer:** Extracts key details (experience, skills, education) and matches resumes against Job Descriptions (JDs) for ATS compatibility scores, highlighting missing keywords.
@@ -307,7 +307,7 @@ AI-powered chatbot with API-based response generation.
 A powerful, modern, and completely free Python desktop application to extract business data from Google Maps and save it directly to CSV.
 
 <details>
-<summary><img src="https://img.shields.io/badge/-%F0%9F%91%87%20View%20Project%20Details%20%26%20Features-0e75b6?style=for-the-badge" alt="View Details" /></summary>
+<summary><strong> 🔽 Click to Expand & View Project Details & Features </strong></summary>
 
 **✨ Features**
 - **Modern UI:** Built with CustomTkinter for a sleek, dark-mode graphical interface.
@@ -333,7 +333,7 @@ A powerful, modern, and completely free Python desktop application to extract bu
 MailGenie is an intelligent, AI-powered email management assistant that brings the power of your inbox directly to your favorite messaging app: **WhatsApp**.
 
 <details>
-<summary><img src="https://img.shields.io/badge/-%F0%9F%91%87%20View%20Project%20Details%20%26%20Features-0e75b6?style=for-the-badge" alt="View Details" /></summary>
+<summary><strong> 🔽 Click to Expand & View Project Details & Features </strong></summary>
 
 By leveraging generative AI and secure webhook integrations, MailGenie allows users to draft, read, reply to, and summarize professional emails using simple WhatsApp text commands or voice notes. Perfect for busy professionals and developers who want to manage their inbox on the go without constantly opening an email client.
 
