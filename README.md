@@ -294,6 +294,9 @@ JobFit AI is a premium, production-ready SaaS platform designed to bridge the ga
 
 <a href="https://github.com/om-prakash416/jobfit-ats"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/></a>
 
+<details>
+<summary><strong> 📂 Click to View More Projects </strong></summary>
+
 ### 🌦️ Weather-Based Outfit Suggestion Application
 **Python | Flask | OpenWeatherMap API | REST APIs | Bootstrap**
 
@@ -385,12 +388,7 @@ Finance Website and Taxes services, blogs, Articles.
 
 <a href="https://lodestar-ops.com/"><img src="https://img.shields.io/badge/Live-Demo-0e75b6?style=for-the-badge&logo=vercel"/></a>
 
-### 🧩 DSA-javascript
-**JavaScript**
-
-Data structures and algorithms implemented in JS.
-
-<a href="https://github.com/om-prakash416/DSA-javascript"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/></a>
+</details>
 
 ---
 
