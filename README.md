@@ -295,7 +295,7 @@ JobFit AI is a premium, production-ready SaaS platform designed to bridge the ga
 <a href="https://github.com/om-prakash416/jobfit-ats"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/></a>
 
 <details>
-<summary><h3><img src="https://img.shields.io/badge/📂_Click_to_View_More_Projects-0e75b6?style=for-the-badge" alt="Click to View More Projects" /></h3></summary>
+<summary><h3> 📂 Click to View More Projects </h3></summary>
 
 ### 🌦️ Weather-Based Outfit Suggestion Application
 **Python | Flask | OpenWeatherMap API | REST APIs | Bootstrap**
