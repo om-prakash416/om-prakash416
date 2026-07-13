@@ -423,12 +423,10 @@ Data structures and algorithms implemented in JS.
 
 ## 📊 GitHub Activity
 
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=om-prakash416&show_icons=true&theme=tokyonight&hide_border=true" alt="om-prakash416" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=om-prakash416&theme=tokyonight&hide_border=true" alt="om-prakash416" /></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=om-prakash416&show_icons=true&theme=tokyonight&hide_border=true" alt="om-prakash416" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om-prakash416&theme=tokyonight&hide_border=true" alt="om-prakash416" />
+</div>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=om-prakash416&show_icons=true&theme=tokyonight&hide_border=true&layout=compact"/>
